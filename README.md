@@ -1,6 +1,8 @@
 Use this link:
 https://codexter5.github.io/about
 <br>to view the live website.
+<br>To add new item only the admin is available so,<br>
+so, use user:admin, password:123
 
 # React + Vite
 
